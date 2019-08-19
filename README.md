@@ -49,7 +49,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(37).pdf" style="text-decoration:none;">The Mechanical Theory of Heat </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(38).pdf" style="text-decoration:none;">Mere Thermodynamics </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(39).pdf" style="text-decoration:none;">General Thermodynamics </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(40).pdf" style="text-decoration:none;">General Thermodynamics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(40).pdf" style="text-decoration:none;">Basic and Applied Thermodynamics </a></b></li>
 
 
 
