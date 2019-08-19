@@ -47,7 +47,8 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(35).pdf" style="text-decoration:none;">Thermodynamics of Black Holes: Semi-Classical Approaches and Beyond</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(36).pdf" style="text-decoration:none;">Theory of Heat </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(37).pdf" style="text-decoration:none;">The Mechanical Theory of Heat </a></b></li>
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(38).pdf" style="text-decoration:none;">Mere Thermodynamics </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/te(39).pdf" style="text-decoration:none;">General Thermodynamics </a></b></li>
 
 
 
